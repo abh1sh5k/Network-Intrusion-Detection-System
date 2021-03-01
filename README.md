@@ -3,7 +3,6 @@
 Network sniffer is used to analyze real time network traffic at an interface and parse into NSL-KDD99 attributes.
 network intrusion detector model predict the legitimacy of the
 packets with an accuracy of ~94%.</p><br>
-<br>
 <h3>How To Run the Code</h3>
 <ul>
 <li>Ensure necessary packages stated requirement.txt are installed.
